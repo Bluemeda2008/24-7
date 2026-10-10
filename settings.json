@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WWIII.aternos.me",
-    "port": 64422,
+    "ip": "fokirsmp.joinmc.world",
+    "port": 45755,
     "version": "1.20.1",
     "try-creative": false
   },
